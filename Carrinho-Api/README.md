@@ -33,5 +33,5 @@ Essa API tem como objetivo servir de sacola de uma aplicação Delivery, sendo p
 
 ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/33385274?s=400&u=e7f9b2171afdd169c1654ea40bec71208c4e76fa&v=4" width=115><br><sub>André Cardoso</sub>](https://github.com/andreadarc) |
+| [<img src="https://avatars.githubusercontent.com/u/33385274?s=400&u=e7f9b2171afdd169c1654ea40bec71208c4e76fa&v=4" width=115><br><sub>André Cardoso</sub>](https://github.com/andredarc) |
 | :---: |
